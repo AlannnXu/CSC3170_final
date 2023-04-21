@@ -67,3 +67,17 @@ Purchase_Order()
 ## 7. Report
 
 ### Author: 黄俊霖 张风雨 (temp) DDL: 4.23
+
+
+
+## 8. PPT需要内容
+
+/*
+介绍： Report
+项目设计逻辑： ER图
+主要数据结构： Data
+测试样本和实机演示：MySql Code和前端
+附加功能：前端
+未来改进：其他时间/微信群讨论
+DDL: 4.24
+*/
