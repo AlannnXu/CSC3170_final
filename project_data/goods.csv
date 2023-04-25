@@ -1,0 +1,106 @@
+goods_ID,goods_name,category,price,brand
+10000001,Watermelon 1pc,Fresh Food,69.8,None
+10000002,Black Grape 1.36kg,Fresh Food,59.8,None
+10000003,Mango 4kg,Fresh Food,89,None
+10000004,Oranges 4kg,Fresh Food,79.8,None
+10000005,Red Seedless Grapes 1.36kg,Fresh Food,59.8,None
+10000006,Water Bamboo Shoot 600g,Fresh Food,16.9,None
+10000007,White Sweet Corn 1.44kg,Fresh Food,59.8,None
+10000008,Blueberry 500g,Fresh Food,39.8,None
+10000009,Member's Mark Cherry Tomato 1.25kg,Fresh Food,39.8,Member's Mark
+10000010,Banana 1.4kg,Fresh Food,19.9,None
+10000011,Gansu Fuji Apple 2kg,Fresh Food,39.8,None
+10000012,Member's Mark Premium Firm Tofu 400g*2,Fresh Food,13.9,Member's Mark
+10000013,Member's Mark Cucumbers 1kg,Fresh Food,11.8,Member's Mark
+10000014,Sweet Potato 2kg,Fresh Food,19.9,None
+10000015,Member's Mark Sweet corn 1.5kg,Fresh Food,34.8,Member's Mark
+10000016,Member's Mark organic Carrots 800g,Fresh Food,15.8,Member's Mark
+10000017,Member's Mark Organic Red Onions 1kg,Fresh Food,18.8,Member's Mark
+10000018,Member's Mark Premium Eggs 30pc,Fresh Food,23.8,Member's Mark
+10000019,Tyson Chicken Drumsticks Fresh 1.2kg,Fresh Food,34.8,Tyson
+10000020,Tyson Chicken Mid-Joints Fresh 1.6kg,Fresh Food,99.8,Tyson
+10000021,Tyson Chicken Feet Fresh 1kg,Fresh Food,55.8,Tyson
+10000022,Human Chilled Old Hen Cut 900g,Fresh Food,67.8,None
+10000023,Australian Brisket Hot Pot Slices 1.1kg,Fresh Food,128,None
+10000024,Australian Grain-Fed Beef 950g,Fresh Food,85.5,Member's Mark
+10000025,USA Imported Roll Beef 1.5kg,Fresh Food,169.9,None
+10000026,Beef Kebabas 1kg(10pc),Fresh Food,168,None
+10000027,Australian Lamb Hotpot Slices 1.1kg,Fresh Food,149.9,None
+10000028,Member's Mark US Imported Grain-Fed Beef Top Blade Steak 0.9kg,Fresh Food,134.8,Member's Mark
+10000029,Hotpot Platter 1.2kg,Fresh Food,169.9,None
+10000030,Strip Slices 1.1kg,Fresh Food,168,None
+10000031,Pork Belly 1.8kg,Fresh Food,78.5,None
+10000032,Pig Bone 1.6kg,Fresh Food,53.4,None
+10000033,Plum Pork 1.7kg,Fresh Food,79.9,None
+10000034,Boneless Pork Chop 1.4kg,Fresh Food,56.6,None
+10000035,Pork Leg 1.1kg,Fresh Food,54.1,None
+20000001,Member's Mark Croissant 18pcs,Milk/Bakery,32.8,Member's Mark
+20000002,Member's Mark Rice Dumpling Sweet Variety Pack,Milk/Bakery,39.9,Member's Mark
+20000003,Member's Mark Rice Dumpling With Ham 100g*6,Milk/Bakery,59.9,Member's Mark
+20000004,Member's Mark Quick Cookig Oats,Milk/Bakery,49.9,Member's Mark
+20000005,Member's Mark Black Truffle Egg Salad Bread 3pcs,Milk/Bakery,32.8,Member's Mark
+20000006,Member's Mark Chocolate Vanilla Puffs 16pcs,Milk/Bakery,79.9,Member's Mark
+20000007,Member's Mark Beet And Berries Juice 1L*2,Milk/Bakery,59.9,Member's Mark
+20000008,Member's Mark Spirulina Juice Beverage,Milk/Bakery,59.9,Member's Mark
+20000009,Member's Mark Whole Milk 200ml*30,Milk/Bakery,76.8,Member's Mark
+20000010,Member's Mark Whole Milk 1L*6,Milk/Bakery,59.8,Member's Mark
+20000011,Mengniu Original Yogurt 3.6kg,Milk/Bakery,45.9,Mengniu
+20000012,Member's Mark Fresh Yogurt 120g*8pcs,Milk/Bakery,45.9,Member's Mark
+20000013,Mengniu Yogurt 100g*24,Milk/Bakery,32.8,Mengniu
+20000014,Member's Mark Skimmed Milk 200ml*30,Milk/Bakery,76.8,Member's Mark
+20000015,Mengniu Flavored Yogurt Oange 130g*8,Milk/Bakery,59.9,Mengniu
+20000016,Member's Mark Whole Bean Coffee 800g,Milk/Bakery,129,Member's Mark
+20000017,Member's Mark Original Mochi Bread 24pcs,Milk/Bakery,29.8,Member's Mark
+30000001,Member's Mark Beef Roll,Fast Food,119,Member's Mark
+30000002,Member's Mark Buffalo Chicken Roll,Fast Food,109,Member's Mark
+30000003,Meiji Ice-cream Mix 22pcs,Fast Food,89.9,Meiji
+30000004,Roast Lamb Skewers 720g,Fast Food,89.9,None
+30000005,Roast Lamb Shank With Bread 839g,Fast Food,79.9,None
+30000006,Korean Fried Chicken Drumstick 1.11kg,Fast Food,59.9,None
+30000007,Tyson Chicken Midder Wings 1.2kg,Fast Food,95.9,Tyson
+30000008,Tyson Chicken Nuggets 2kg,Fast Food,49.9,Tyson
+30000009,Member's Mark Fruit and Cheese Party Tray,Fast Food,99,Member's Mark
+30000010,Member's Mark Shrimp with Cocktail Sauce,Fast Food,169,Member's Mark
+30000011,Wanzai Matou Shimp Mini Wonton 1165g,Fast Food,59.9,Wanzai Matou
+30000012,Wanzai Matou Corn and Pork Dumpling 1980g,Fast Food,55.9,Wanzai Matou
+30000013,Angus Cheeseburger 1.05kg,Fast Food,89.9,None
+30000014,Member's Mark Chaoshan Beef Balls 700g,Fast Food,89.9,Member's Mark
+30000015,Cheesecake 1.7kg,Fast Food,185.9,None
+30000016,Jincheng Frozen BBQ Pork Buns 600g,Fast Food,35.9,Jincheng
+30000017,Wanzai Matou Cabbage and Pork Dumplings 1980g,Fast Food,55.9,Wanzai Matou
+40000001,Finute Wasabi Shrimp Chips 240g,Snacks,29.8,None
+40000002,Member's Mark Charcoal Grilled Pork Jerky 500g,Snacks,89,Member's Mark
+40000003,Member's Mark Nest Porridge 1.5kg,Snacks,119,Member's Mark
+40000004,Japanese Style Chips 390g,Snacks,39.9,None
+40000005,Member's Mark Oragnic Pine Nut Kernels 308g,Snacks,99,Member's Mark
+40000006,Sardines Dry Almond 260g,Snacks,69.9,None
+40000007,ChaCheer Vigorous Nuts Diary Daily Serving,Snacks,129,None
+40000008,Furuta Chacolate 324g,Snacks,59.8,None
+40000009,Yabon Milk Cake 1kg,Snacks,79.8,None
+40000010,Glendee Crispy Grape 180g,Snacks,89,None
+40000011,Baileys Chocolate Truffles 640g,Snacks,188,None
+40000012,Ottogi Wheat Noodle 1.5kg,Snacks,29.8,None
+40000013,Member's Mark Roasted and Unsalted Mixed Nuts 1.1kg,Snacks,115,Member's Mark
+40000014,Jiazhou Yuanye Peanuts 860g,Snacks,39.9,None
+40000015,Member's Mark Roasted and Salted Pistachios 1.1lkg,Snacks,99,Member's Mark
+40000016,SHARY Sweet Pea 400g,Snacks,79,None
+40000017,Yahamoo Dried Apricots 1kg,Snacks,89.9,None
+40000018,Member's Mark Daily Nuts Bar 575g,Snacks,99,None
+40000019,Raisins 700g,Snacks,79.9,None
+40000020,Nutriolive Pine Nut Kernels 312g,Snacks,99,None
+40000021,Glendee Crispy Strawberry 180g,Snacks,89,None
+40000022,FOODZONE COCO Pie 420g,Snacks,69.8,None
+40000023,Member's Mark Dried Blueberrys 450g,Snacks,68,None
+40000024,Member's Mark Dried Prunes 1.13kg,Snacks,69.8,None
+40000025,Sunbites Chickpea Crisps 38g*8,Snacks,49.8,None
+50000001,Chateau Gravelier 750ml,Drinks,58,None
+50000002,Jian Nan Chun 52% vol Classic Liquor 500ml,Drinks,579,None
+50000003,Kweichow Moutai 53%vol Liquor 1L,Drinks,13800,Moutai
+50000004,Moutai 53%vol Liquor 750ml,Drinks,5250,Moutai
+50000005,Moutai 535vol Liquor 500ml,Drinks,4415,Moutai
+50000006,Wuliang Tequ Liquor 52%vol 500ml,Drinks,359,None
+50000007,Laimao 53%vol Liquor 500ml,Drinks,488,None
+50000008,Chateau Larose-Trintaudon 750ml,Drinks,198,None
+50000009,GIBOULOT Savigny les Beaune 750ml,Drinks,199,None
+50000010,Antonin Rodet Chablis Premier Cru 750ml,Drinks,168,None
+50000011,Member's Mark Drinking Natural Water 4L,Drinks,8.8,None

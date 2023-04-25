@@ -1,0 +1,20 @@
+job_ID,job_title,min_salary,max_salary
+01,President,20000,40000
+02,Administration Vice President,15000,30000
+03,Sales Manager,10000,20000
+04,Accounting Manager,8200,16000
+05,Finance Manager,8200,16000
+06,Marketing Manager,9000,15000
+07,Purchasing Manager,8000,15000
+08,Sales Representative,6000,12000
+09,Public Relations Representative,4500,10500
+10,Programmer,10000,20000
+11,Public Accountant,4200,9000
+12,Accountant,4200,9000
+13,Human Resources Representative,4000,9000
+14,Marketing Representative,4000,9000
+15,Stock Manager,5500,8500
+16,Administration Assistant,4000,8000
+17,Purchasing Clerk,3500,7500
+18,Shipping Clerk,3500,7500
+19,Salesperson,3000,7000

@@ -1,0 +1,9 @@
+departments_ID,department_name,manager_ID,place
+010,Administration,0001,Administration
+020,Marketing,0004,Marketing
+030,Purchasing,0006,Purchasing
+040,Human Resources,0024,Human Resources
+050,Shipping,0033,Shipping
+060,IT,0025,IT
+070,Finance,0014,Finance
+080,Accounting,0003,Accounting
